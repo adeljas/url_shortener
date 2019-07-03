@@ -12,6 +12,6 @@ to run the project in development mode, execute npm start for each of the Fronte
 the API listens on port 4000, Frontend on 3000
 
 # prerequisits 
-npm install -g ts-node
-npm install -g typescript
-npm install ( for both Frontend and API projects )
+- npm install -g ts-node
+- npm install -g typescript
+- npm install ( for both Frontend and API projects )
