@@ -1,0 +1,17 @@
+.expander{
+    padding-bottom: 40px;
+    font-size: 28px;
+    max-width: 90vw;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.expander a{
+    color: white;
+    text-decoration: none;
+}
+
+.expander a:hover{
+    color: white;
+    text-decoration: underline;
+}
