@@ -1,4 +1,4 @@
-FLIXtech interview task, URL Shortener
+URL Shortener
 
 Frontend: TypeScript, React.js, React Router
 Backend: MySQL, Node.js and Express.js
