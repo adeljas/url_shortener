@@ -1,0 +1,16 @@
+.latest-entries{
+    margin-top: 20px;
+    font-size: 13px;
+}
+
+.latest-entries table{
+    width: 100%;
+}
+
+.latest-entries table td, .latest-entries table th{
+    text-align: left;
+}
+
+.latest-entries a {
+    color: white;
+}
